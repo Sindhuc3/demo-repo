@@ -1,3 +1,3 @@
 # demo-repo
 this is my first repo
-author-sindhu
+author-sindhu c
